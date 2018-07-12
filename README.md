@@ -17,3 +17,8 @@ Make sure windows is fully updated (Doesn't work on early windows 10 versions)
 
 #### Build issues (TMPro files missing) 
 Make sure you're using the latest LTS version of unity (2017.4)
+
+#### Pairing issues (both Visual Studio and Unity) 
+- Be on the same (preferably local) WIFI
+- Generate a pairing PIN in HoloLens settings -- visual studio
+- Open the HoloLens remote access app (on the lens itself) -- unity
