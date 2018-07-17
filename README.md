@@ -9,6 +9,8 @@ We'll be following the following [tutorial](https://docs.microsoft.com/en-us/win
 
 # Work dates
 12/07 10u30 - 17u -- Installs & Intro, getting familiar with the HoloLens
+13/07 11u00 - 15u00 -- Gaze + Gestures
+16/07 10u30 - 16u00 -- reset, spatial mapping 
 
 # FAQ & Issues
 
