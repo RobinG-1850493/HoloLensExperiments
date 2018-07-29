@@ -14,6 +14,7 @@ We'll be following the following [tutorial](https://docs.microsoft.com/en-us/win
 - 16/07 10u30 - 16u00 -- reset, spatial mapping 
 - 23/07 9u30 - 15u00 -- spatial anchors, first try at placing a logo in a pre-defined position
 - 26/07 10u30 - 15u00 -- spatial scan of Dijkstra room, playing around with the scan in Unity
+- 29/07 9u00 - 12u00 -- finishing up
 
 # FAQ & Issues
 
